@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="logo_description">Logo</string>
+    <string name="Gruß">Herzlich Welcomen</string>
+    <string name="name_eingaben">Name Eingabe</string>
+    <string name="passowt_eingaben">Passwort Eingabe</string>
+    <string name="button_bestellungErstellen">BESTELLEN</string>
+
 </resources>

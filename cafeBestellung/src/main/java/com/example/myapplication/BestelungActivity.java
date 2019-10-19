@@ -3,16 +3,12 @@ package com.example.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
 
-public class LoginActivity extends AppCompatActivity {
+public class BestelungActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
-    }
-
-    public void cafeBestellen(View view) {
+        setContentView(R.layout.activity_bestelung);
     }
 }
